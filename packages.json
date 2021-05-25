@@ -1,0 +1,30 @@
+[
+    {
+        "package": "funrar",
+        "url": "https://github.com/rekyt/funrar"
+    },
+    {
+        "package": "fundiversity",
+        "url": "https://github.com/bisaloo/fundiversity"
+    },
+    {
+        "package": "rromeo",
+        "url": "https://github.com/ropensci/rromeo"
+    },
+    {
+        "package": "ecolottery",
+        "url": "https://github.com/frmunoz/ecolottery"
+    },
+    {
+        "package": "rtaxref",
+        "url": "https://github.com/rekyt/rtaxref"
+    },
+    {
+        "package": "bnfimage",
+        "url": "https://github.com/rekyt/bnfimage"
+    },
+    {
+        "package": "fdcoexist",
+        "url": "https://github.com/Rekyt/fdcoexist"
+    }
+]
