@@ -26,5 +26,9 @@
     {
         "package": "fdcoexist",
         "url": "https://github.com/Rekyt/fdcoexist"
+    },
+    {
+        "package": "funbiogeo",
+        "url": "https://github.com/FRBCesab/funbiogeo"
     }
 ]
