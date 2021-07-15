@@ -13,7 +13,8 @@
     },
     {
         "package": "ecolottery",
-        "url": "https://github.com/frmunoz/ecolottery"
+        "url": "https://github.com/frmunoz/ecolottery",
+	"subdir": "pkg"
     },
     {
         "package": "rtaxref",
