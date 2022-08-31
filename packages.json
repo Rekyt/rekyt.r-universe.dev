@@ -1,15 +1,15 @@
 [
     {
-        "package": "funrar",
-        "url": "https://github.com/rekyt/funrar"
+        "package": "funbiogeo",
+        "url": "https://github.com/FRBCesab/funbiogeo"
     },
     {
         "package": "fundiversity",
-        "url": "https://github.com/bisaloo/fundiversity"
+        "url": "https://github.com/Bisaloo/fundiversity"
     },
     {
-        "package": "rromeo",
-        "url": "https://github.com/ropensci/rromeo"
+        "package": "funrar",
+        "url": "https://github.com/Rekyt/funrar"
     },
     {
         "package": "ecolottery",
@@ -18,18 +18,22 @@
     },
     {
         "package": "rtaxref",
-        "url": "https://github.com/rekyt/rtaxref"
+        "url": "https://github.com/Rekyt/rtaxref"
     },
     {
         "package": "bnfimage",
-        "url": "https://github.com/rekyt/bnfimage"
+        "url": "https://github.com/Rekyt/bnfimage"
     },
     {
         "package": "fdcoexist",
         "url": "https://github.com/Rekyt/fdcoexist"
     },
     {
-        "package": "funbiogeo",
-        "url": "https://github.com/FRBCesab/funbiogeo"
+	"package": "fddimensionality",
+	"url": "https://github.com/Rekyt/fddimensionality_ms"
+    },
+    {
+        "package": "rromeo",
+        "url": "https://github.com/ropensci-archive/rromeo"
     }
 ]
